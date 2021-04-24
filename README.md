@@ -1,14 +1,13 @@
-## Hello, I'm Matheus and here is my Github!!
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1575409644/7248/baby-yoda-soup.gif?1575409644" width="30"/> Hello, I'm Matheus and here is my Github!!</h1>
 
  <img align='right' src='https://media1.tenor.com/images/24579380a69539bfaef233fbf1cf5f6e/tenor.gif?itemid=12870665' width='200'>
  
- <div>
   <a href = "mailto: mathusalg.nb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-nb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+  ![GitHub followers](https://img.shields.io/github/followers/emanuelmassafera?label=Follow&style=social)
 
  <ul>
-  <li>💻 ┇I'm a Javascript Developer from <b>Dourados-MS, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
+  <li>💻 ┇I'm a Web Developer and a  graduating in Computer Engineering from <b>Dourados-MS, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
   <li>💾 ┇Few tech that I enjoy working in are Javascript, Typescript, NodeJs, React Native, ReactJS, Git and Notion;</li>
   <li>😍 ┇Passionate about web development and problem solution through programming;</li>
 </ul>
