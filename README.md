@@ -4,7 +4,7 @@
  
   <a href = "mailto: mathusalg.nb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-nb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  ![GitHub followers](https://img.shields.io/github/followers/emanuelmassafera?label=Follow&style=social)
+  <a href="https://github.com/Matheus-nb" target="_blank"><img src="https://img.shields.io/github/followers/Matheus-nb?label=Follow&style=social" target="_blank"></a>
 
  <ul>
   <li>💻 ┇I'm a Web Developer and a  graduating in Computer Engineering from <b>Dourados-MS, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
