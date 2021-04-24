@@ -1,4 +1,9 @@
 ## Hello, I'm Matheus and here is my Github!!
+ <div>
+  <a href = "mailto: mathusalg.nb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-nb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
  <ul>
   <li>💻 ┇I'm a Javascript Developer from <b>Dourados-MS, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
   <li>💾 ┇Few tech that I enjoy working in are Javascript, Typescript, NodeJs, React Native, ReactJS, Git and Notion;</li>
@@ -28,9 +33,4 @@
   <img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'>
 </div>
   
-  ## 
-  
-  <div>
-  <a href = "mailto: mathusalg.nb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-nb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+ 
