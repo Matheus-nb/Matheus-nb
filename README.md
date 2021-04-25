@@ -19,7 +19,7 @@
  <div>
   <a href="https://github.com/Matheus-nb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-nb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus-nb&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en&bg_color=161B22"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-nb&layout=compact&langs_count=6&theme=dark/>
 <div>
  
  ## 🛠 Tech Stack
