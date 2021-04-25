@@ -2,7 +2,7 @@
 
  <img align='right' src='https://media1.tenor.com/images/24579380a69539bfaef233fbf1cf5f6e/tenor.gif?itemid=12870665' width='200'>
  
-  <a href = "mailto: matheusalg.nb@gmail.com"><img src="https://img.shields.io/badge/e%E2%80%91mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheusalg.nb@gmail.com"><img src="https://img.shields.io/badge/e%E2%80%91mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-nb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/Matheus-nb" target="_blank"><img src="https://img.shields.io/github/followers/Matheus-nb?label=Follow&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
