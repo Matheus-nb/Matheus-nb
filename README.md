@@ -8,7 +8,7 @@
 
  <ul>
   <li>💻 ┇I'm a Web Developer and a majoring in Computer Engineering from <b>Dourados-MS, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
-  <li>💾 ┇Few tech that I enjoy working in are Javascript, Typescript, NodeJs, React Native, ReactJS, Git and Notion;</li>
+  <li>💾 ┇Few tech that I enjoy working in are Javascript, Typescript, NodeJs, React Native, ReactJS, Git and Java;</li>
   <li>😍 ┇Passionate about web development and problem solution through programming;</li>
 </ul>
 
